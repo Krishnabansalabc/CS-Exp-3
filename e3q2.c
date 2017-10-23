@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-float cost = 172.53;
+float cost = 60;
 
 void main()
 {
